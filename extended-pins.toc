@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120007
 ## Title: Extended Pins
 ## Notes: Expands the map pin system to allow multiple custom waypoints and smart routing.
 ## Author: Michael Stopps
@@ -9,4 +9,4 @@
 
 ## IconTexture: Interface\Icons\inv_misc_map02
 
-ExtendedPins.lua
+extended-pins.lua
