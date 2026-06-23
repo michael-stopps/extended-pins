@@ -2,7 +2,7 @@
 ## Title: Extended Pins
 ## Notes: Expands the map pin system to allow multiple custom waypoints and smart routing.
 ## Author: Michael Stopps
-## Version: 1.1.1
+## Version: 12.0.7.2
 ## SavedVariables: ExtendedPinsDB
 
 ## Category: Map
