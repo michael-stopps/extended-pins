@@ -257,7 +257,8 @@ SlashCmdList["EXTENDEDPINSWAY"] = function(msg)
         if ExtendedPins.dataProvider and WorldMapFrame:IsShown() then
             ExtendedPins.dataProvider:RefreshAllData(true)
         end
-        print(string.format("|cffffd100Added %d pins.|r", pinsAdded))
+        local pinsText = (pinsAdded == 1) and "pin" or "pins"
+        print(string.format("|cffffd100Added %d %s.|r", pinsAdded, pinsText))
     else
         print("|cffffd100Usage: /way [#mapID] <x> <y> [name] (Supports multi-paste)|r")
     end
