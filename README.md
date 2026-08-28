@@ -26,3 +26,7 @@ Download the latest release from the Releases page or use WowUp's `Install from 
 
 **Slash Commands:**
 * `/way clear` - Instantly removes all active pins and clears your current route.
+
+## Versioning
+
+Version numbers follow the WoW patch they were built for, plus an addon revision: `<patch>.<revision>` — e.g. `12.1.0.1` is the first release for patch 12.1.0. The revision resets to `1` on each new patch. Git tags use the same string.
