@@ -1,4 +1,4 @@
-## Interface: 120100
+## Interface: 120105
 ## Title: Extended Pins
 ## Notes: Expands the map pin system to allow multiple custom waypoints and smart routing.
 ## Author: Michael Stopps
